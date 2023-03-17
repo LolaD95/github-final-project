@@ -9,4 +9,4 @@ This project creates a calculator that calculates simple interest given principa
   r, annual rate of interest 0.2% 
    
 # Output
-   simple interest = "p\*\t*\r"
+   simple interest = "p*t*r"
