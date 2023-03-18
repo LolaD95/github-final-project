@@ -10,10 +10,10 @@ All pull requests will require you to ensure the change is certified via the Dev
 Please note the [Code of Conduct](https://github.com/LolaD95/github-final-project/blob/main/CODE_OF_CONDUCT.md)
 ), please follow it in all your interactions with the project and its community.
 
-# Programming Languages
+## Programming Languages
 All files and code changes or enhancements should be written in .sh
 
-# Pull Requeest Process
+## Pull Requeest Process
 1. Fork the repository. 
 2. Commit your changes to your fork. 
 3. Submit a pull request. Don't forget to add yourself in the Authors file!
