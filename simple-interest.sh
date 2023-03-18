@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # LolaD95
+   # LolaD95 (IBM Course)
 
    # Input:
    # p, principal amount
